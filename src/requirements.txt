@@ -1,0 +1,6 @@
+fbs==0.0.9
+pandas==0.20.3
+tabula-py==1.0.1
+matplotlib==2.2.2
+seaborn==0.8.1
+requests==2.19.1

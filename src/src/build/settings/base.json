@@ -1,0 +1,5 @@
+{
+    "app_name": "FB Data",
+    "main_module": "src/main/Main.py",
+    "author": "Denis Meyer"
+}
